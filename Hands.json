@@ -3,10 +3,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
-    "CardsInt": [
-      12.0,
-      48.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -17,10 +13,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 1,
-    "CardsInt": [
-      3.0,
-      45.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -31,10 +23,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
-    "CardsInt": [
-      11.0,
-      15.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -45,10 +33,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 5,
-    "CardsInt": [
-      2.0,
-      12.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -59,10 +43,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 2,
-    "CardsInt": [
-      13.0,
-      42.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -73,10 +53,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
-    "CardsInt": [
-      7.0,
-      26.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -87,10 +63,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 2,
-    "CardsInt": [
-      10.0,
-      43.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -101,10 +73,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
-    "CardsInt": [
-      2.0,
-      3.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -115,10 +83,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
-    "CardsInt": [
-      33.0,
-      46.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -129,10 +93,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
-    "CardsInt": [
-      33.0,
-      46.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 4,
@@ -143,10 +103,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
-    "CardsInt": [
-      23.0,
-      48.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -157,10 +113,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
-    "CardsInt": [
-      32.0,
-      49.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -171,10 +123,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
-    "CardsInt": [
-      32.0,
-      49.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 4,
@@ -185,10 +133,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
-    "CardsInt": [
-      3.0,
-      44.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -199,10 +143,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
-    "CardsInt": [
-      5.0,
-      16.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -213,10 +153,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
-    "CardsInt": [
-      18.0,
-      39.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -227,10 +163,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 1,
-    "CardsInt": [
-      6.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -241,10 +173,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
-    "CardsInt": [
-      7.0,
-      10.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -255,10 +183,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      15.0,
-      19.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -269,10 +193,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      15.0,
-      19.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 1,
@@ -283,10 +203,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      15.0,
-      19.0
-    ],
     "BigBlind": 0.5,
     "GameState": 2,
     "PlayerActionInt": 4,
@@ -297,10 +213,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
-    "CardsInt": [
-      18.0,
-      39.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -311,10 +223,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 4,
-    "CardsInt": [
-      14.0,
-      17.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -325,10 +233,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
-    "CardsInt": [
-      25.0,
-      26.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -339,10 +243,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
-    "CardsInt": [
-      25.0,
-      26.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 1,
@@ -353,10 +253,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
-    "CardsInt": [
-      25.0,
-      26.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 0,
@@ -367,10 +263,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
-    "CardsInt": [
-      17.0,
-      27.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -381,10 +273,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
-    "CardsInt": [
-      31.0,
-      42.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -395,10 +283,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 3,
-    "CardsInt": [
-      27.0,
-      30.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -409,10 +293,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
-    "CardsInt": [
-      45.0,
-      46.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -423,10 +303,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 3,
-    "CardsInt": [
-      33.0,
-      39.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -437,10 +313,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
-    "CardsInt": [
-      41.0,
-      42.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -451,10 +323,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
-    "CardsInt": [
-      32.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -465,10 +333,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 1,
-    "CardsInt": [
-      19.0,
-      24.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -479,10 +343,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 4,
-    "CardsInt": [
-      15.0,
-      28.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -493,10 +353,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 6,
-    "CardsInt": [
-      10.0,
-      30.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -507,10 +363,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
-    "CardsInt": [
-      3.0,
-      28.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -521,10 +373,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 2,
-    "CardsInt": [
-      28.0,
-      42.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -535,10 +383,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
-    "CardsInt": [
-      20.0,
-      23.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -549,10 +393,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
-    "CardsInt": [
-      20.0,
-      23.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 4,
@@ -563,10 +403,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
-    "CardsInt": [
-      20.0,
-      23.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 0,
@@ -577,10 +413,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 3,
-    "CardsInt": [
-      8.0,
-      29.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -591,10 +423,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
-    "CardsInt": [
-      0.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -605,10 +433,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
-    "CardsInt": [
-      0.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 1,
@@ -619,10 +443,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
-    "CardsInt": [
-      0.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 0,
@@ -633,10 +453,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 5,
-    "CardsInt": [
-      2.0,
-      35.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -647,10 +463,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 1,
-    "CardsInt": [
-      5.0,
-      29.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -661,10 +473,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
-    "CardsInt": [
-      22.0,
-      35.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -675,10 +483,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 3,
-    "CardsInt": [
-      12.0,
-      19.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -689,10 +493,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      37.0,
-      38.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -703,10 +503,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      37.0,
-      38.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 4,
@@ -717,10 +513,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
-    "CardsInt": [
-      33.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -731,10 +523,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
-    "CardsInt": [
-      33.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 1,
@@ -745,10 +533,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
-    "CardsInt": [
-      33.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 2,
     "PlayerActionInt": 2,
@@ -759,10 +543,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
-    "CardsInt": [
-      33.0,
-      51.0
-    ],
     "BigBlind": 0.5,
     "GameState": 3,
     "PlayerActionInt": 3,
@@ -773,10 +553,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 5,
-    "CardsInt": [
-      19.0,
-      24.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -787,10 +563,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 2,
-    "CardsInt": [
-      8.0,
-      35.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -801,10 +573,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 1,
-    "CardsInt": [
-      3.0,
-      25.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -815,10 +583,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
-    "CardsInt": [
-      8.0,
-      20.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -829,10 +593,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
-    "CardsInt": [
-      32.0,
-      36.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -843,10 +603,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
-    "CardsInt": [
-      32.0,
-      36.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 1,
@@ -857,10 +613,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
-    "CardsInt": [
-      32.0,
-      36.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 2,
@@ -871,10 +623,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
-    "CardsInt": [
-      32.0,
-      36.0
-    ],
     "BigBlind": 0.5,
     "GameState": 2,
     "PlayerActionInt": 1,
@@ -885,10 +633,6 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
-    "CardsInt": [
-      32.0,
-      36.0
-    ],
     "BigBlind": 0.5,
     "GameState": 2,
     "PlayerActionInt": 0,
@@ -899,10 +643,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      44.0,
-      45.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -913,10 +653,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      44.0,
-      45.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 4,
@@ -927,10 +663,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      44.0,
-      45.0
-    ],
     "BigBlind": 0.5,
     "GameState": 2,
     "PlayerActionInt": 4,
@@ -941,10 +673,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
-    "CardsInt": [
-      44.0,
-      45.0
-    ],
     "BigBlind": 0.5,
     "GameState": 3,
     "PlayerActionInt": 3,
@@ -955,10 +683,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
-    "CardsInt": [
-      10.0,
-      31.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -969,10 +693,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
-    "CardsInt": [
-      4.0,
-      43.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -983,10 +703,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
-    "CardsInt": [
-      38.0,
-      45.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -997,10 +713,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
-    "CardsInt": [
-      38.0,
-      45.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -1011,10 +723,6 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 6,
-    "CardsInt": [
-      17.0,
-      40.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -1025,10 +733,6 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 1,
-    "CardsInt": [
-      26.0,
-      41.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -1039,10 +743,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
-    "CardsInt": [
-      45.0,
-      48.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -1053,10 +753,6 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
-    "CardsInt": [
-      45.0,
-      48.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 4,
@@ -1067,10 +763,6 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
-    "CardsInt": [
-      11.0,
-      45.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 0,
@@ -1081,10 +773,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
-    "CardsInt": [
-      35.0,
-      43.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 3,
@@ -1095,10 +783,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
-    "CardsInt": [
-      35.0,
-      43.0
-    ],
     "BigBlind": 0.5,
     "GameState": 0,
     "PlayerActionInt": 2,
@@ -1109,10 +793,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
-    "CardsInt": [
-      35.0,
-      43.0
-    ],
     "BigBlind": 0.5,
     "GameState": 1,
     "PlayerActionInt": 2,
@@ -1123,10 +803,6 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
-    "CardsInt": [
-      35.0,
-      43.0
-    ],
     "BigBlind": 0.5,
     "GameState": 2,
     "PlayerActionInt": 0,
