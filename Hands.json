@@ -1,0 +1,1622 @@
+[
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 16740,
+    "Card2": 13668,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      0,
+      -1,
+      0,
+      3,
+      0
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 1.0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 19304,
+    "Card2": 12899,
+    "GameState": 0,
+    "PlayerActions": [
+      2,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.25,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 13411,
+    "Card2": 13667,
+    "GameState": 0,
+    "PlayerActions": [
+      3,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.75,
+    "CurrentPot": 1.25
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "Card1": 12915,
+    "Card2": 13668,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      3,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.13,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "Card1": 20851,
+    "Card2": 13672,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 14451,
+    "Card2": 13155,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.25,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "Card1": 13427,
+    "Card2": 20835,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 12899,
+    "Card2": 12915,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      3,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.75,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 21608,
+    "Card2": 19315,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 21608,
+    "Card2": 19315,
+    "GameState": 1,
+    "PlayerActions": [
+      -1,
+      -2,
+      1,
+      -2,
+      -2,
+      -2
+    ],
+    "PlayerActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "Card1": 16740,
+    "Card2": 14179,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 16744,
+    "Card2": 21604,
+    "GameState": 0,
+    "PlayerActions": [
+      3,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.6,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 16744,
+    "Card2": 21604,
+    "GameState": 1,
+    "PlayerActions": [
+      -1,
+      -2,
+      -1,
+      -2,
+      -2,
+      -2
+    ],
+    "PlayerActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 5.25
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 12899,
+    "Card2": 19300,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "Card1": 13924,
+    "Card2": 13160,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 13939,
+    "Card2": 19043,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      3,
+      3,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 3.75,
+    "CurrentPot": 1.0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 13171,
+    "Card2": 16739,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 13155,
+    "Card2": 13427,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      -1,
+      -1,
+      0,
+      0,
+      3
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.25
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 13923,
+    "Card2": 13667,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 13923,
+    "Card2": 13667,
+    "GameState": 1,
+    "PlayerActions": [
+      -1,
+      -2,
+      1,
+      -2,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 13923,
+    "Card2": 13667,
+    "GameState": 2,
+    "PlayerActions": [
+      -1,
+      -2,
+      1,
+      -2,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 19043,
+    "Card2": 13939,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "Card1": 13928,
+    "Card2": 13683,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      0,
+      -1,
+      3,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 14451,
+    "Card2": 14440,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 14451,
+    "Card2": 14440,
+    "GameState": 1,
+    "PlayerActions": [
+      -1,
+      -2,
+      -2,
+      -2,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 14451,
+    "Card2": 14440,
+    "GameState": 1,
+    "PlayerActions": [
+      0,
+      -2,
+      -2,
+      -2,
+      1,
+      4
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.92,
+    "CurrentPot": 3.02
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 13928,
+    "Card2": 14435,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      -1,
+      -1,
+      0,
+      3,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.75,
+    "CurrentPot": 1.0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "Card1": 20851,
+    "Card2": 14691,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 14707,
+    "Card2": 14435,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 19304,
+    "Card2": 19315,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 19043,
+    "Card2": 21608,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "Card1": 20851,
+    "Card2": 20840,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 21604,
+    "Card2": 16739,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      -1,
+      -1,
+      3,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.25
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 14436,
+    "Card2": 13923,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "Card1": 13667,
+    "Card2": 14692,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      3,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.5,
+    "CurrentPot": 1.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 14707,
+    "Card2": 13427,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      0,
+      -1,
+      0,
+      0,
+      3
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.75,
+    "CurrentPot": 1.25
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 14692,
+    "Card2": 12899,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      -1,
+      -1,
+      0,
+      3,
+      2
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.87,
+    "CurrentPot": 1.12
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "Card1": 20851,
+    "Card2": 14692,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 14180,
+    "Card2": 14179,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      3,
+      0,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 1.5,
+    "CurrentPot": 1.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 14180,
+    "Card2": 14179,
+    "GameState": 1,
+    "PlayerActions": [
+      -1,
+      -2,
+      -2,
+      -2,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 4.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 14180,
+    "Card2": 14179,
+    "GameState": 1,
+    "PlayerActions": [
+      3,
+      -2,
+      -2,
+      -2,
+      -2,
+      4
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 16.67,
+    "CurrentPot": 7.49
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 13412,
+    "Card2": 14696,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 12900,
+    "Card2": 16739,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.25,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 12900,
+    "Card2": 16739,
+    "GameState": 1,
+    "PlayerActions": [
+      -2,
+      -1,
+      -1,
+      -2,
+      -2,
+      -2
+    ],
+    "PlayerActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.25
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 12900,
+    "Card2": 16739,
+    "GameState": 1,
+    "PlayerActions": [
+      -2,
+      1,
+      4,
+      -2,
+      -2,
+      -2
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.79,
+    "CurrentPot": 1.25
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "Card1": 21603,
+    "Card2": 12915,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      3,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.1,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 14696,
+    "Card2": 13160,
+    "GameState": 0,
+    "PlayerActions": [
+      3,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 1.0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 14195,
+    "Card2": 21603,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 13668,
+    "Card2": 13923,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 19048,
+    "Card2": 19059,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 19048,
+    "Card2": 19059,
+    "GameState": 1,
+    "PlayerActions": [
+      -1,
+      -2,
+      1,
+      -2,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "Card1": 21608,
+    "Card2": 16739,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "Card1": 21608,
+    "Card2": 16739,
+    "GameState": 1,
+    "PlayerActions": [
+      -2,
+      -2,
+      1,
+      -2,
+      -1,
+      -2
+    ],
+    "PlayerActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "Card1": 21608,
+    "Card2": 16739,
+    "GameState": 2,
+    "PlayerActions": [
+      -2,
+      -2,
+      4,
+      -2,
+      -1,
+      -2
+    ],
+    "PlayerActionInt": 2,
+    "ValueToCall": 2.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "Card1": 21608,
+    "Card2": 16739,
+    "GameState": 3,
+    "PlayerActions": [
+      -2,
+      -2,
+      4,
+      -2,
+      -1,
+      -2
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 4.5,
+    "CurrentPot": 3.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "Card1": 14436,
+    "Card2": 13923,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      -1,
+      -1,
+      0,
+      3,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.25,
+    "CurrentPot": 1.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "Card1": 21603,
+    "Card2": 13412,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 14440,
+    "Card2": 12899,
+    "GameState": 0,
+    "PlayerActions": [
+      3,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 14180,
+    "Card2": 13412,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 21604,
+    "Card2": 19044,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 21604,
+    "Card2": 19044,
+    "GameState": 1,
+    "PlayerActions": [
+      -2,
+      -2,
+      -2,
+      -2,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 21604,
+    "Card2": 19044,
+    "GameState": 1,
+    "PlayerActions": [
+      -2,
+      -2,
+      -2,
+      -2,
+      1,
+      4
+    ],
+    "PlayerActionInt": 2,
+    "ValueToCall": 0.7,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 21604,
+    "Card2": 19044,
+    "GameState": 2,
+    "PlayerActions": [
+      -2,
+      -2,
+      -2,
+      -2,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.7999999999999998
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 21604,
+    "Card2": 19044,
+    "GameState": 2,
+    "PlayerActions": [
+      -2,
+      -2,
+      -2,
+      -2,
+      1,
+      4
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 7.02,
+    "CurrentPot": 1.7999999999999998
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 19300,
+    "Card2": 19304,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      2,
+      0,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 19300,
+    "Card2": 19304,
+    "GameState": 1,
+    "PlayerActions": [
+      -2,
+      1,
+      -2,
+      1,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 19300,
+    "Card2": 19304,
+    "GameState": 2,
+    "PlayerActions": [
+      -2,
+      1,
+      -2,
+      1,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 3.63
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 19300,
+    "Card2": 19304,
+    "GameState": 3,
+    "PlayerActions": [
+      -2,
+      1,
+      -2,
+      4,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 27.78,
+    "CurrentPot": 9.58
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 13427,
+    "Card2": 14691,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 20835,
+    "Card2": 13156,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      -1,
+      -1,
+      0,
+      0,
+      3
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.75,
+    "CurrentPot": 1.0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 19304,
+    "Card2": 19059,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 19304,
+    "Card2": 19059,
+    "GameState": 0,
+    "PlayerActions": [
+      2,
+      0,
+      0,
+      3,
+      3,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 2.4,
+    "CurrentPot": 3.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "Card1": 20836,
+    "Card2": 13928,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      0,
+      -1,
+      0,
+      0,
+      3
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "Card1": 20840,
+    "Card2": 14451,
+    "GameState": 0,
+    "PlayerActions": [
+      3,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.9,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "Card1": 19304,
+    "Card2": 16740,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "Card1": 19304,
+    "Card2": 16740,
+    "GameState": 1,
+    "PlayerActions": [
+      -2,
+      -2,
+      1,
+      -1,
+      -1,
+      -2
+    ],
+    "PlayerActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 19304,
+    "Card2": 13411,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 21603,
+    "Card2": 20835,
+    "GameState": 0,
+    "PlayerActions": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      -1
+    ],
+    "PlayerActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 21603,
+    "Card2": 20835,
+    "GameState": 0,
+    "PlayerActions": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      3
+    ],
+    "PlayerActionInt": 2,
+    "ValueToCall": 3.15,
+    "CurrentPot": 1.1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 21603,
+    "Card2": 20835,
+    "GameState": 1,
+    "PlayerActions": [
+      -2,
+      -2,
+      4,
+      -2,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 2,
+    "ValueToCall": 4.99,
+    "CurrentPot": 4.25
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "Card1": 21603,
+    "Card2": 20835,
+    "GameState": 2,
+    "PlayerActions": [
+      -2,
+      -2,
+      4,
+      -2,
+      -2,
+      -1
+    ],
+    "PlayerActionInt": 0,
+    "ValueToCall": 9.75,
+    "CurrentPot": 9.24
+  }
+]
