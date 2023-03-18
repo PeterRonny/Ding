@@ -3,6 +3,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
+    "Cards": [
+      "Ad",
+      "5d"
+    ],
     "BigBlind": 0.5,
     "Card1": 16740,
     "Card2": 13668,
@@ -23,6 +27,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 1,
+    "Cards": [
+      "Kh",
+      "2c"
+    ],
     "BigBlind": 0.5,
     "Card1": 19304,
     "Card2": 12899,
@@ -43,6 +51,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
+    "Cards": [
+      "4c",
+      "5c"
+    ],
     "BigBlind": 0.5,
     "Card1": 13411,
     "Card2": 13667,
@@ -63,6 +75,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 5,
+    "Cards": [
+      "2s",
+      "5d"
+    ],
     "BigBlind": 0.5,
     "Card1": 12915,
     "Card2": 13668,
@@ -83,6 +99,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 2,
+    "Cards": [
+      "Qs",
+      "5h"
+    ],
     "BigBlind": 0.5,
     "Card1": 20851,
     "Card2": 13672,
@@ -103,6 +123,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "Cards": [
+      "8s",
+      "3c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14451,
     "Card2": 13155,
@@ -123,6 +147,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 2,
+    "Cards": [
+      "4s",
+      "Qc"
+    ],
     "BigBlind": 0.5,
     "Card1": 13427,
     "Card2": 20835,
@@ -143,6 +171,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "Cards": [
+      "2c",
+      "2s"
+    ],
     "BigBlind": 0.5,
     "Card1": 12899,
     "Card2": 12915,
@@ -163,6 +195,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
+    "Cards": [
+      "Th",
+      "Ks"
+    ],
     "BigBlind": 0.5,
     "Card1": 21608,
     "Card2": 19315,
@@ -183,6 +219,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
+    "Cards": [
+      "Th",
+      "Ks"
+    ],
     "BigBlind": 0.5,
     "Card1": 21608,
     "Card2": 19315,
@@ -203,6 +243,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
+    "Cards": [
+      "Ad",
+      "7c"
+    ],
     "BigBlind": 0.5,
     "Card1": 16740,
     "Card2": 14179,
@@ -223,6 +267,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
+    "Cards": [
+      "Ah",
+      "Td"
+    ],
     "BigBlind": 0.5,
     "Card1": 16744,
     "Card2": 21604,
@@ -243,6 +291,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
+    "Cards": [
+      "Ah",
+      "Td"
+    ],
     "BigBlind": 0.5,
     "Card1": 16744,
     "Card2": 21604,
@@ -263,6 +315,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
+    "Cards": [
+      "2c",
+      "Kd"
+    ],
     "BigBlind": 0.5,
     "Card1": 12899,
     "Card2": 19300,
@@ -283,6 +339,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
+    "Cards": [
+      "6d",
+      "3h"
+    ],
     "BigBlind": 0.5,
     "Card1": 13924,
     "Card2": 13160,
@@ -303,6 +363,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "Cards": [
+      "6s",
+      "Jc"
+    ],
     "BigBlind": 0.5,
     "Card1": 13939,
     "Card2": 19043,
@@ -323,6 +387,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 1,
+    "Cards": [
+      "3s",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 13171,
     "Card2": 16739,
@@ -343,6 +411,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
+    "Cards": [
+      "3c",
+      "4s"
+    ],
     "BigBlind": 0.5,
     "Card1": 13155,
     "Card2": 13427,
@@ -363,6 +435,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "6c",
+      "5c"
+    ],
     "BigBlind": 0.5,
     "Card1": 13923,
     "Card2": 13667,
@@ -383,6 +459,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "6c",
+      "5c"
+    ],
     "BigBlind": 0.5,
     "Card1": 13923,
     "Card2": 13667,
@@ -403,6 +483,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "6c",
+      "5c"
+    ],
     "BigBlind": 0.5,
     "Card1": 13923,
     "Card2": 13667,
@@ -423,6 +507,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
+    "Cards": [
+      "Jc",
+      "6s"
+    ],
     "BigBlind": 0.5,
     "Card1": 19043,
     "Card2": 13939,
@@ -443,6 +531,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 4,
+    "Cards": [
+      "6h",
+      "5s"
+    ],
     "BigBlind": 0.5,
     "Card1": 13928,
     "Card2": 13683,
@@ -463,6 +555,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "Cards": [
+      "8s",
+      "8h"
+    ],
     "BigBlind": 0.5,
     "Card1": 14451,
     "Card2": 14440,
@@ -483,6 +579,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "Cards": [
+      "8s",
+      "8h"
+    ],
     "BigBlind": 0.5,
     "Card1": 14451,
     "Card2": 14440,
@@ -503,6 +603,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "Cards": [
+      "8s",
+      "8h"
+    ],
     "BigBlind": 0.5,
     "Card1": 14451,
     "Card2": 14440,
@@ -523,6 +627,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "Cards": [
+      "6h",
+      "8c"
+    ],
     "BigBlind": 0.5,
     "Card1": 13928,
     "Card2": 14435,
@@ -543,6 +651,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
+    "Cards": [
+      "Qs",
+      "9c"
+    ],
     "BigBlind": 0.5,
     "Card1": 20851,
     "Card2": 14691,
@@ -563,6 +675,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 3,
+    "Cards": [
+      "9s",
+      "8c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14707,
     "Card2": 14435,
@@ -583,6 +699,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
+    "Cards": [
+      "Kh",
+      "Ks"
+    ],
     "BigBlind": 0.5,
     "Card1": 19304,
     "Card2": 19315,
@@ -603,6 +723,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 3,
+    "Cards": [
+      "Jc",
+      "Th"
+    ],
     "BigBlind": 0.5,
     "Card1": 19043,
     "Card2": 21608,
@@ -623,6 +747,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
+    "Cards": [
+      "Qs",
+      "Qh"
+    ],
     "BigBlind": 0.5,
     "Card1": 20851,
     "Card2": 20840,
@@ -643,6 +771,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "Cards": [
+      "Td",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 21604,
     "Card2": 16739,
@@ -663,6 +795,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 1,
+    "Cards": [
+      "8d",
+      "6c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14436,
     "Card2": 13923,
@@ -683,6 +819,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 4,
+    "Cards": [
+      "5c",
+      "9d"
+    ],
     "BigBlind": 0.5,
     "Card1": 13667,
     "Card2": 14692,
@@ -703,6 +843,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 6,
+    "Cards": [
+      "9s",
+      "4s"
+    ],
     "BigBlind": 0.5,
     "Card1": 14707,
     "Card2": 13427,
@@ -723,6 +867,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
+    "Cards": [
+      "9d",
+      "2c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14692,
     "Card2": 12899,
@@ -743,6 +891,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 2,
+    "Cards": [
+      "Qs",
+      "9d"
+    ],
     "BigBlind": 0.5,
     "Card1": 20851,
     "Card2": 14692,
@@ -763,6 +915,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "Cards": [
+      "7d",
+      "7c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14180,
     "Card2": 14179,
@@ -783,6 +939,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "Cards": [
+      "7d",
+      "7c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14180,
     "Card2": 14179,
@@ -803,6 +963,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "Cards": [
+      "7d",
+      "7c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14180,
     "Card2": 14179,
@@ -823,6 +987,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 3,
+    "Cards": [
+      "4d",
+      "9h"
+    ],
     "BigBlind": 0.5,
     "Card1": 13412,
     "Card2": 14696,
@@ -843,6 +1011,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "Cards": [
+      "2d",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 12900,
     "Card2": 16739,
@@ -863,6 +1035,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "Cards": [
+      "2d",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 12900,
     "Card2": 16739,
@@ -883,6 +1059,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "Cards": [
+      "2d",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 12900,
     "Card2": 16739,
@@ -903,6 +1083,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 5,
+    "Cards": [
+      "Tc",
+      "2s"
+    ],
     "BigBlind": 0.5,
     "Card1": 21603,
     "Card2": 12915,
@@ -923,6 +1107,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 1,
+    "Cards": [
+      "9h",
+      "3h"
+    ],
     "BigBlind": 0.5,
     "Card1": 14696,
     "Card2": 13160,
@@ -943,6 +1131,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "Cards": [
+      "7s",
+      "Tc"
+    ],
     "BigBlind": 0.5,
     "Card1": 14195,
     "Card2": 21603,
@@ -963,6 +1155,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 3,
+    "Cards": [
+      "5d",
+      "6c"
+    ],
     "BigBlind": 0.5,
     "Card1": 13668,
     "Card2": 13923,
@@ -983,6 +1179,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "Jh",
+      "Js"
+    ],
     "BigBlind": 0.5,
     "Card1": 19048,
     "Card2": 19059,
@@ -1003,6 +1203,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "Jh",
+      "Js"
+    ],
     "BigBlind": 0.5,
     "Card1": 19048,
     "Card2": 19059,
@@ -1023,6 +1227,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
+    "Cards": [
+      "Th",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 21608,
     "Card2": 16739,
@@ -1043,6 +1251,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
+    "Cards": [
+      "Th",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 21608,
     "Card2": 16739,
@@ -1063,6 +1275,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
+    "Cards": [
+      "Th",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 21608,
     "Card2": 16739,
@@ -1083,6 +1299,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
+    "Cards": [
+      "Th",
+      "Ac"
+    ],
     "BigBlind": 0.5,
     "Card1": 21608,
     "Card2": 16739,
@@ -1103,6 +1323,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 5,
+    "Cards": [
+      "8d",
+      "6c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14436,
     "Card2": 13923,
@@ -1123,6 +1347,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 2,
+    "Cards": [
+      "Tc",
+      "4d"
+    ],
     "BigBlind": 0.5,
     "Card1": 21603,
     "Card2": 13412,
@@ -1143,6 +1371,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 1,
+    "Cards": [
+      "8h",
+      "2c"
+    ],
     "BigBlind": 0.5,
     "Card1": 14440,
     "Card2": 12899,
@@ -1163,6 +1395,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
+    "Cards": [
+      "7d",
+      "4d"
+    ],
     "BigBlind": 0.5,
     "Card1": 14180,
     "Card2": 13412,
@@ -1183,6 +1419,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "Cards": [
+      "Td",
+      "Jd"
+    ],
     "BigBlind": 0.5,
     "Card1": 21604,
     "Card2": 19044,
@@ -1203,6 +1443,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "Cards": [
+      "Td",
+      "Jd"
+    ],
     "BigBlind": 0.5,
     "Card1": 21604,
     "Card2": 19044,
@@ -1223,6 +1467,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "Cards": [
+      "Td",
+      "Jd"
+    ],
     "BigBlind": 0.5,
     "Card1": 21604,
     "Card2": 19044,
@@ -1243,6 +1491,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "Cards": [
+      "Td",
+      "Jd"
+    ],
     "BigBlind": 0.5,
     "Card1": 21604,
     "Card2": 19044,
@@ -1263,6 +1515,10 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "Cards": [
+      "Td",
+      "Jd"
+    ],
     "BigBlind": 0.5,
     "Card1": 21604,
     "Card2": 19044,
@@ -1283,6 +1539,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "Kd",
+      "Kh"
+    ],
     "BigBlind": 0.5,
     "Card1": 19300,
     "Card2": 19304,
@@ -1303,6 +1563,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "Kd",
+      "Kh"
+    ],
     "BigBlind": 0.5,
     "Card1": 19300,
     "Card2": 19304,
@@ -1323,6 +1587,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "Kd",
+      "Kh"
+    ],
     "BigBlind": 0.5,
     "Card1": 19300,
     "Card2": 19304,
@@ -1343,6 +1611,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "Cards": [
+      "Kd",
+      "Kh"
+    ],
     "BigBlind": 0.5,
     "Card1": 19300,
     "Card2": 19304,
@@ -1363,6 +1635,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
+    "Cards": [
+      "4s",
+      "9c"
+    ],
     "BigBlind": 0.5,
     "Card1": 13427,
     "Card2": 14691,
@@ -1383,6 +1659,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
+    "Cards": [
+      "Qc",
+      "3d"
+    ],
     "BigBlind": 0.5,
     "Card1": 20835,
     "Card2": 13156,
@@ -1403,6 +1683,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
+    "Cards": [
+      "Kh",
+      "Js"
+    ],
     "BigBlind": 0.5,
     "Card1": 19304,
     "Card2": 19059,
@@ -1423,6 +1707,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
+    "Cards": [
+      "Kh",
+      "Js"
+    ],
     "BigBlind": 0.5,
     "Card1": 19304,
     "Card2": 19059,
@@ -1443,6 +1731,10 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 6,
+    "Cards": [
+      "Qd",
+      "6h"
+    ],
     "BigBlind": 0.5,
     "Card1": 20836,
     "Card2": 13928,
@@ -1463,6 +1755,10 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 1,
+    "Cards": [
+      "Qh",
+      "8s"
+    ],
     "BigBlind": 0.5,
     "Card1": 20840,
     "Card2": 14451,
@@ -1483,6 +1779,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
+    "Cards": [
+      "Kh",
+      "Ad"
+    ],
     "BigBlind": 0.5,
     "Card1": 19304,
     "Card2": 16740,
@@ -1503,6 +1803,10 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
+    "Cards": [
+      "Kh",
+      "Ad"
+    ],
     "BigBlind": 0.5,
     "Card1": 19304,
     "Card2": 16740,
@@ -1523,6 +1827,10 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
+    "Cards": [
+      "Kh",
+      "4c"
+    ],
     "BigBlind": 0.5,
     "Card1": 19304,
     "Card2": 13411,
@@ -1543,6 +1851,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "Cards": [
+      "Tc",
+      "Qc"
+    ],
     "BigBlind": 0.5,
     "Card1": 21603,
     "Card2": 20835,
@@ -1563,6 +1875,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "Cards": [
+      "Tc",
+      "Qc"
+    ],
     "BigBlind": 0.5,
     "Card1": 21603,
     "Card2": 20835,
@@ -1583,6 +1899,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "Cards": [
+      "Tc",
+      "Qc"
+    ],
     "BigBlind": 0.5,
     "Card1": 21603,
     "Card2": 20835,
@@ -1603,6 +1923,10 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "Cards": [
+      "Tc",
+      "Qc"
+    ],
     "BigBlind": 0.5,
     "Card1": 21603,
     "Card2": 20835,
