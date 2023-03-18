@@ -3,16 +3,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
+    "CardsInt": [
+      12,
+      48
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      1,
-      0,
-      3,
-      0
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 1.0
@@ -21,16 +17,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 1,
+    "CardsInt": [
+      3,
+      45
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      2,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.25,
     "CurrentPot": 0.5
@@ -39,16 +31,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
+    "CardsInt": [
+      11,
+      15
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.75,
     "CurrentPot": 1.25
@@ -57,16 +45,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 5,
+    "CardsInt": [
+      2,
+      12
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      3,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.13,
     "CurrentPot": 0.5
@@ -75,16 +59,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 2,
+    "CardsInt": [
+      13,
+      42
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -93,16 +73,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "CardsInt": [
+      7,
+      26
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.25,
     "CurrentPot": 0.5
@@ -111,16 +87,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 2,
+    "CardsInt": [
+      10,
+      43
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -129,16 +101,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "CardsInt": [
+      2,
+      3
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      3,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.75,
     "CurrentPot": 0.5
@@ -147,16 +115,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
+    "CardsInt": [
+      33,
+      46
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -165,16 +129,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
+    "CardsInt": [
+      33,
+      46
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      1,
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -183,16 +143,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
+    "CardsInt": [
+      23,
+      48
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -201,16 +157,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
+    "CardsInt": [
+      32,
+      49
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.6,
     "CurrentPot": 1.1
@@ -219,16 +171,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 3,
+    "CardsInt": [
+      32,
+      49
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 5.25
@@ -237,16 +185,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
+    "CardsInt": [
+      3,
+      44
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -255,16 +199,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
+    "CardsInt": [
+      5,
+      16
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -273,16 +213,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "CardsInt": [
+      18,
+      39
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      3,
-      3,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 3.75,
     "CurrentPot": 1.0
@@ -291,16 +227,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 1,
+    "CardsInt": [
+      6,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -309,16 +241,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
+    "CardsInt": [
+      7,
+      10
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      0,
-      0,
-      3
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.25
@@ -327,16 +255,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      15,
+      19
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -345,16 +269,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      15,
+      19
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      1,
-      0,
-      3,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -363,16 +283,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      15,
+      19
+    ],
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      1,
-      0,
-      3,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -381,16 +297,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
+    "CardsInt": [
+      18,
+      39
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -399,16 +311,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 4,
+    "CardsInt": [
+      14,
+      17
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      1,
-      3,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.5
@@ -417,16 +325,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "CardsInt": [
+      25,
+      26
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -435,16 +339,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "CardsInt": [
+      25,
+      26
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      1,
-      0,
-      0,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -453,16 +353,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "CardsInt": [
+      25,
+      26
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      2,
-      0,
-      0,
-      0,
-      3,
-      6
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.92,
     "CurrentPot": 3.02
@@ -471,16 +367,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "CardsInt": [
+      17,
+      27
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      0,
-      3,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.75,
     "CurrentPot": 1.0
@@ -489,16 +381,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 2,
+    "CardsInt": [
+      31,
+      42
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -507,16 +395,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 3,
+    "CardsInt": [
+      27,
+      30
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -525,16 +409,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 1,
+    "CardsInt": [
+      45,
+      46
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -543,16 +423,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 3,
+    "CardsInt": [
+      33,
+      39
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -561,16 +437,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
+    "CardsInt": [
+      41,
+      42
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -579,16 +451,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "CardsInt": [
+      32,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      3,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.25
@@ -597,16 +465,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 1,
+    "CardsInt": [
+      19,
+      24
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -615,16 +479,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 4,
+    "CardsInt": [
+      15,
+      28
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      3,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.5,
     "CurrentPot": 1.5
@@ -633,16 +493,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 6,
+    "CardsInt": [
+      10,
+      30
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      1,
-      0,
-      0,
-      3
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.75,
     "CurrentPot": 1.25
@@ -651,16 +507,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
+    "CardsInt": [
+      3,
+      28
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      0,
-      3,
-      2
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.87,
     "CurrentPot": 1.12
@@ -669,16 +521,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 2,
+    "CardsInt": [
+      28,
+      42
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -687,16 +535,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "CardsInt": [
+      20,
+      23
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      3,
-      0,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 1.5,
     "CurrentPot": 1.5
@@ -705,16 +549,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "CardsInt": [
+      20,
+      23
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      1,
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 4.5
@@ -723,16 +563,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "CardsInt": [
+      20,
+      23
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      5,
-      0,
-      0,
-      0,
-      0,
-      6
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 16.67,
     "CurrentPot": 7.49
@@ -741,16 +577,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 3,
+    "CardsInt": [
+      8,
+      29
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -759,16 +591,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "CardsInt": [
+      0,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.25,
     "CurrentPot": 0.5
@@ -777,16 +605,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "CardsInt": [
+      0,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.25
@@ -795,16 +619,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 3,
+    "CardsInt": [
+      0,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      3,
-      6,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.79,
     "CurrentPot": 1.25
@@ -813,16 +633,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 5,
+    "CardsInt": [
+      2,
+      35
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      3,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.1,
     "CurrentPot": 1.1
@@ -831,16 +647,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 1,
+    "CardsInt": [
+      5,
+      29
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 1.0
@@ -849,16 +661,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 1,
+    "CardsInt": [
+      22,
+      35
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -867,16 +675,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 3,
+    "CardsInt": [
+      12,
+      19
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -885,16 +689,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      37,
+      38
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -903,16 +703,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      37,
+      38
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      1,
-      0,
-      3,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -921,16 +717,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
+    "CardsInt": [
+      33,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -939,16 +731,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
+    "CardsInt": [
+      33,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      0,
-      3,
-      0,
-      1,
-      0
-    ],
     "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -957,16 +745,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
+    "CardsInt": [
+      33,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      0,
-      0,
-      6,
-      0,
-      1,
-      0
-    ],
     "PlayerActionInt": 2,
     "ValueToCall": 2.0,
     "CurrentPot": 1.1
@@ -975,16 +759,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 5,
+    "CardsInt": [
+      33,
+      51
+    ],
     "BigBlind": 0.5,
     "GameState": 3,
-    "PlayerActions": [
-      0,
-      0,
-      6,
-      0,
-      1,
-      0
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 4.5,
     "CurrentPot": 3.1
@@ -993,16 +773,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 5,
+    "CardsInt": [
+      19,
+      24
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      0,
-      3,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.25,
     "CurrentPot": 1.5
@@ -1011,16 +787,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 2,
+    "CardsInt": [
+      8,
+      35
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1029,16 +801,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 1,
+    "CardsInt": [
+      3,
+      25
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.5
@@ -1047,16 +815,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
+    "CardsInt": [
+      8,
+      20
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1065,16 +829,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "CardsInt": [
+      32,
+      36
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1083,16 +843,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "CardsInt": [
+      32,
+      36
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -1101,16 +857,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "CardsInt": [
+      32,
+      36
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      0,
-      0,
-      0,
-      3,
-      6
-    ],
     "PlayerActionInt": 2,
     "ValueToCall": 0.7,
     "CurrentPot": 1.1
@@ -1119,16 +871,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "CardsInt": [
+      32,
+      36
+    ],
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1
-    ],
     "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.7999999999999998
@@ -1137,16 +885,12 @@
     "PlayerCount": 6,
     "MyPosition": 5,
     "WinnerPosition": 6,
+    "CardsInt": [
+      32,
+      36
+    ],
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      0,
-      0,
-      0,
-      0,
-      3,
-      6
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 7.02,
     "CurrentPot": 1.7999999999999998
@@ -1155,16 +899,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      44,
+      45
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      2,
-      0,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1173,16 +913,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      44,
+      45
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      3,
-      0,
-      3,
-      0,
-      1
-    ],
     "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -1191,16 +927,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      44,
+      45
+    ],
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      0,
-      3,
-      0,
-      3,
-      0,
-      1
-    ],
     "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 3.63
@@ -1209,16 +941,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 6,
+    "CardsInt": [
+      44,
+      45
+    ],
     "BigBlind": 0.5,
     "GameState": 3,
-    "PlayerActions": [
-      0,
-      3,
-      0,
-      6,
-      0,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 27.78,
     "CurrentPot": 9.58
@@ -1227,16 +955,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
+    "CardsInt": [
+      10,
+      31
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1245,16 +969,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 6,
+    "CardsInt": [
+      4,
+      43
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      1,
-      1,
-      0,
-      0,
-      3
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.75,
     "CurrentPot": 1.0
@@ -1263,16 +983,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
+    "CardsInt": [
+      38,
+      45
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1281,16 +997,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 1,
+    "CardsInt": [
+      38,
+      45
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      2,
-      0,
-      0,
-      3,
-      3,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 2.4,
     "CurrentPot": 3.5
@@ -1299,16 +1011,12 @@
     "PlayerCount": 6,
     "MyPosition": 3,
     "WinnerPosition": 6,
+    "CardsInt": [
+      17,
+      40
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      1,
-      0,
-      0,
-      3
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.5
@@ -1317,16 +1025,12 @@
     "PlayerCount": 6,
     "MyPosition": 2,
     "WinnerPosition": 1,
+    "CardsInt": [
+      26,
+      41
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.9,
     "CurrentPot": 0.5
@@ -1335,16 +1039,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
+    "CardsInt": [
+      45,
+      48
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1353,16 +1053,12 @@
     "PlayerCount": 6,
     "MyPosition": 4,
     "WinnerPosition": 4,
+    "CardsInt": [
+      45,
+      48
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      0,
-      3,
-      1,
-      1,
-      0
-    ],
     "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
@@ -1371,16 +1067,12 @@
     "PlayerCount": 6,
     "MyPosition": 1,
     "WinnerPosition": 3,
+    "CardsInt": [
+      11,
+      45
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1389,16 +1081,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "CardsInt": [
+      35,
+      43
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
@@ -1407,16 +1095,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "CardsInt": [
+      35,
+      43
+    ],
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      3,
-      0,
-      0,
-      3
-    ],
     "PlayerActionInt": 2,
     "ValueToCall": 3.15,
     "CurrentPot": 1.1
@@ -1425,16 +1109,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "CardsInt": [
+      35,
+      43
+    ],
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      0,
-      6,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 2,
     "ValueToCall": 4.99,
     "CurrentPot": 4.25
@@ -1443,16 +1123,12 @@
     "PlayerCount": 6,
     "MyPosition": 6,
     "WinnerPosition": 3,
+    "CardsInt": [
+      35,
+      43
+    ],
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      0,
-      0,
-      6,
-      0,
-      0,
-      1
-    ],
     "PlayerActionInt": 0,
     "ValueToCall": 9.75,
     "CurrentPot": 9.24
