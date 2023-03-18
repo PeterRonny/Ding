@@ -5,14 +5,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      -1,
-      0,
-      3,
-      0
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 1.0
   },
@@ -22,14 +15,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      2,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.25,
     "CurrentPot": 0.5
   },
@@ -39,14 +25,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      0,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.75,
     "CurrentPot": 1.25
   },
@@ -56,14 +35,7 @@
     "WinnerPosition": 5,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      3,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.13,
     "CurrentPot": 0.5
   },
@@ -73,14 +45,7 @@
     "WinnerPosition": 2,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -90,14 +55,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.25,
     "CurrentPot": 0.5
   },
@@ -107,14 +65,7 @@
     "WinnerPosition": 2,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -124,14 +75,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      3,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.75,
     "CurrentPot": 0.5
   },
@@ -141,14 +85,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -158,14 +95,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -1,
-      -2,
-      1,
-      -2,
-      -2,
-      -2
-    ],
+    "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -175,14 +105,7 @@
     "WinnerPosition": 2,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -192,14 +115,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      0,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.6,
     "CurrentPot": 1.1
   },
@@ -209,14 +125,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -1,
-      -2,
-      -1,
-      -2,
-      -2,
-      -2
-    ],
+    "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 5.25
   },
@@ -226,14 +135,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -243,14 +145,7 @@
     "WinnerPosition": 2,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -260,14 +155,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      3,
-      3,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 3.75,
     "CurrentPot": 1.0
   },
@@ -277,14 +165,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -294,14 +175,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      -1,
-      -1,
-      0,
-      0,
-      3
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.25
   },
@@ -311,14 +185,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -328,14 +195,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -1,
-      -2,
-      1,
-      -2,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -345,14 +205,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      -1,
-      -2,
-      1,
-      -2,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -362,14 +215,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -379,14 +225,7 @@
     "WinnerPosition": 4,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      -1,
-      3,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.5
   },
@@ -396,14 +235,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -413,14 +245,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -1,
-      -2,
-      -2,
-      -2,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -430,14 +255,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      0,
-      -2,
-      -2,
-      -2,
-      1,
-      4
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.92,
     "CurrentPot": 3.02
   },
@@ -447,14 +265,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      -1,
-      -1,
-      0,
-      3,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.75,
     "CurrentPot": 1.0
   },
@@ -464,14 +275,7 @@
     "WinnerPosition": 2,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -481,14 +285,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -498,14 +295,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -515,14 +305,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -532,14 +315,7 @@
     "WinnerPosition": 4,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -549,14 +325,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      -1,
-      -1,
-      3,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.25
   },
@@ -566,14 +335,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -583,14 +345,7 @@
     "WinnerPosition": 4,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      3,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.5,
     "CurrentPot": 1.5
   },
@@ -600,14 +355,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      -1,
-      0,
-      0,
-      3
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.75,
     "CurrentPot": 1.25
   },
@@ -617,14 +365,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      -1,
-      -1,
-      0,
-      3,
-      2
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.87,
     "CurrentPot": 1.12
   },
@@ -634,14 +375,7 @@
     "WinnerPosition": 2,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -651,14 +385,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      3,
-      0,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 1.5,
     "CurrentPot": 1.5
   },
@@ -668,14 +395,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -1,
-      -2,
-      -2,
-      -2,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 4.5
   },
@@ -685,14 +405,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      3,
-      -2,
-      -2,
-      -2,
-      -2,
-      4
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 16.67,
     "CurrentPot": 7.49
   },
@@ -702,14 +415,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -719,14 +425,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.25,
     "CurrentPot": 0.5
   },
@@ -736,14 +435,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -2,
-      -1,
-      -1,
-      -2,
-      -2,
-      -2
-    ],
+    "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.25
   },
@@ -753,14 +445,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -2,
-      1,
-      4,
-      -2,
-      -2,
-      -2
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.79,
     "CurrentPot": 1.25
   },
@@ -770,14 +455,7 @@
     "WinnerPosition": 5,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      3,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.1,
     "CurrentPot": 1.1
   },
@@ -787,14 +465,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      0,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 1.0
   },
@@ -804,14 +475,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -821,14 +485,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -838,14 +495,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -855,14 +505,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -1,
-      -2,
-      1,
-      -2,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -872,14 +515,7 @@
     "WinnerPosition": 5,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -889,14 +525,7 @@
     "WinnerPosition": 5,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -2,
-      -2,
-      1,
-      -2,
-      -1,
-      -2
-    ],
+    "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -906,14 +535,7 @@
     "WinnerPosition": 5,
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      -2,
-      -2,
-      4,
-      -2,
-      -1,
-      -2
-    ],
+    "PlayerActionInt": 2,
     "ValueToCall": 2.0,
     "CurrentPot": 1.1
   },
@@ -923,14 +545,7 @@
     "WinnerPosition": 5,
     "BigBlind": 0.5,
     "GameState": 3,
-    "PlayerActions": [
-      -2,
-      -2,
-      4,
-      -2,
-      -1,
-      -2
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 4.5,
     "CurrentPot": 3.1
   },
@@ -940,14 +555,7 @@
     "WinnerPosition": 5,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      -1,
-      -1,
-      0,
-      3,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.25,
     "CurrentPot": 1.5
   },
@@ -957,14 +565,7 @@
     "WinnerPosition": 2,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -974,14 +575,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      0,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.5
   },
@@ -991,14 +585,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -1008,14 +595,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -1025,14 +605,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -2,
-      -2,
-      -2,
-      -2,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -1042,14 +615,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -2,
-      -2,
-      -2,
-      -2,
-      1,
-      4
-    ],
+    "PlayerActionInt": 2,
     "ValueToCall": 0.7,
     "CurrentPot": 1.1
   },
@@ -1059,14 +625,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      -2,
-      -2,
-      -2,
-      -2,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.7999999999999998
   },
@@ -1076,14 +635,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      -2,
-      -2,
-      -2,
-      -2,
-      1,
-      4
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 7.02,
     "CurrentPot": 1.7999999999999998
   },
@@ -1093,14 +645,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      2,
-      0,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -1110,14 +655,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -2,
-      1,
-      -2,
-      1,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -1127,14 +665,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      -2,
-      1,
-      -2,
-      1,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 3.63
   },
@@ -1144,14 +675,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 3,
-    "PlayerActions": [
-      -2,
-      1,
-      -2,
-      4,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 27.78,
     "CurrentPot": 9.58
   },
@@ -1161,14 +685,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -1178,14 +695,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      -1,
-      -1,
-      0,
-      0,
-      3
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.75,
     "CurrentPot": 1.0
   },
@@ -1195,14 +705,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -1212,14 +715,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      2,
-      0,
-      0,
-      3,
-      3,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 2.4,
     "CurrentPot": 3.5
   },
@@ -1229,14 +725,7 @@
     "WinnerPosition": 6,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      -1,
-      0,
-      0,
-      3
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 1.0,
     "CurrentPot": 1.5
   },
@@ -1246,14 +735,7 @@
     "WinnerPosition": 1,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      3,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.9,
     "CurrentPot": 0.5
   },
@@ -1263,14 +745,7 @@
     "WinnerPosition": 4,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -1280,14 +755,7 @@
     "WinnerPosition": 4,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -2,
-      -2,
-      1,
-      -1,
-      -1,
-      -2
-    ],
+    "PlayerActionInt": 4,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1
   },
@@ -1297,14 +765,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      0
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -1314,14 +775,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      -1
-    ],
+    "PlayerActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5
   },
@@ -1331,14 +785,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 0,
-    "PlayerActions": [
-      0,
-      0,
-      3,
-      0,
-      0,
-      3
-    ],
+    "PlayerActionInt": 2,
     "ValueToCall": 3.15,
     "CurrentPot": 1.1
   },
@@ -1348,14 +795,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 1,
-    "PlayerActions": [
-      -2,
-      -2,
-      4,
-      -2,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 2,
     "ValueToCall": 4.99,
     "CurrentPot": 4.25
   },
@@ -1365,14 +805,7 @@
     "WinnerPosition": 3,
     "BigBlind": 0.5,
     "GameState": 2,
-    "PlayerActions": [
-      -2,
-      -2,
-      4,
-      -2,
-      -2,
-      -1
-    ],
+    "PlayerActionInt": 0,
     "ValueToCall": 9.75,
     "CurrentPot": 9.24
   }
