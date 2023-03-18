@@ -8,7 +8,6 @@
       "5d"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1097086308,
     "Card1": 16740,
     "Card2": 13668,
     "GameState": 0,
@@ -33,7 +32,6 @@
       "2c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1265119843,
     "Card1": 19304,
     "Card2": 12899,
     "GameState": 0,
@@ -58,7 +56,6 @@
       "5c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 878916963,
     "Card1": 13411,
     "Card2": 13667,
     "GameState": 0,
@@ -83,7 +80,6 @@
       "5d"
     ],
     "BigBlind": 0.5,
-    "CardTest": 846411108,
     "Card1": 12915,
     "Card2": 13668,
     "GameState": 0,
@@ -108,7 +104,6 @@
       "5h"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1366504808,
     "Card1": 20851,
     "Card2": 13672,
     "GameState": 0,
@@ -133,7 +128,6 @@
       "3c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 947073891,
     "Card1": 14451,
     "Card2": 13155,
     "GameState": 0,
@@ -158,7 +152,6 @@
       "Qc"
     ],
     "BigBlind": 0.5,
-    "CardTest": 879972707,
     "Card1": 13427,
     "Card2": 20835,
     "GameState": 0,
@@ -183,7 +176,6 @@
       "2s"
     ],
     "BigBlind": 0.5,
-    "CardTest": 845361779,
     "Card1": 12899,
     "Card2": 12915,
     "GameState": 0,
@@ -208,7 +200,6 @@
       "Ks"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1416121203,
     "Card1": 21608,
     "Card2": 19315,
     "GameState": 0,
@@ -233,7 +224,6 @@
       "Ks"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1416121203,
     "Card1": 21608,
     "Card2": 19315,
     "GameState": 1,
@@ -258,7 +248,6 @@
       "7c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1097086819,
     "Card1": 16740,
     "Card2": 14179,
     "GameState": 0,
@@ -283,7 +272,6 @@
       "Td"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1097356388,
     "Card1": 16744,
     "Card2": 21604,
     "GameState": 0,
@@ -308,7 +296,6 @@
       "Td"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1097356388,
     "Card1": 16744,
     "Card2": 21604,
     "GameState": 1,
@@ -333,7 +320,6 @@
       "Kd"
     ],
     "BigBlind": 0.5,
-    "CardTest": 845368164,
     "Card1": 12899,
     "Card2": 19300,
     "GameState": 0,
@@ -358,7 +344,6 @@
       "3h"
     ],
     "BigBlind": 0.5,
-    "CardTest": 912536424,
     "Card1": 13924,
     "Card2": 13160,
     "GameState": 0,
@@ -383,7 +368,6 @@
       "Jc"
     ],
     "BigBlind": 0.5,
-    "CardTest": 913525347,
     "Card1": 13939,
     "Card2": 19043,
     "GameState": 0,
@@ -408,7 +392,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 863191395,
     "Card1": 13171,
     "Card2": 16739,
     "GameState": 0,
@@ -433,7 +416,6 @@
       "4s"
     ],
     "BigBlind": 0.5,
-    "CardTest": 862139507,
     "Card1": 13155,
     "Card2": 13427,
     "GameState": 0,
@@ -458,7 +440,6 @@
       "5c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 912471395,
     "Card1": 13923,
     "Card2": 13667,
     "GameState": 0,
@@ -483,7 +464,6 @@
       "5c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 912471395,
     "Card1": 13923,
     "Card2": 13667,
     "GameState": 1,
@@ -508,7 +488,6 @@
       "5c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 912471395,
     "Card1": 13923,
     "Card2": 13667,
     "GameState": 2,
@@ -533,7 +512,6 @@
       "6s"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1248015987,
     "Card1": 19043,
     "Card2": 13939,
     "GameState": 0,
@@ -558,7 +536,6 @@
       "5s"
     ],
     "BigBlind": 0.5,
-    "CardTest": 912799091,
     "Card1": 13928,
     "Card2": 13683,
     "GameState": 0,
@@ -583,7 +560,6 @@
       "8h"
     ],
     "BigBlind": 0.5,
-    "CardTest": 947075176,
     "Card1": 14451,
     "Card2": 14440,
     "GameState": 0,
@@ -608,7 +584,6 @@
       "8h"
     ],
     "BigBlind": 0.5,
-    "CardTest": 947075176,
     "Card1": 14451,
     "Card2": 14440,
     "GameState": 1,
@@ -633,7 +608,6 @@
       "8h"
     ],
     "BigBlind": 0.5,
-    "CardTest": 947075176,
     "Card1": 14451,
     "Card2": 14440,
     "GameState": 1,
@@ -658,7 +632,6 @@
       "8c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 912799843,
     "Card1": 13928,
     "Card2": 14435,
     "GameState": 0,
@@ -683,7 +656,6 @@
       "9c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1366505827,
     "Card1": 20851,
     "Card2": 14691,
     "GameState": 0,
@@ -708,7 +680,6 @@
       "8c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 963852387,
     "Card1": 14707,
     "Card2": 14435,
     "GameState": 0,
@@ -733,7 +704,6 @@
       "Ks"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1265126259,
     "Card1": 19304,
     "Card2": 19315,
     "GameState": 0,
@@ -758,7 +728,6 @@
       "Th"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1248023656,
     "Card1": 19043,
     "Card2": 21608,
     "GameState": 0,
@@ -783,7 +752,6 @@
       "Qh"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1366511976,
     "Card1": 20851,
     "Card2": 20840,
     "GameState": 0,
@@ -808,7 +776,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415856483,
     "Card1": 21604,
     "Card2": 16739,
     "GameState": 0,
@@ -833,7 +800,6 @@
       "6c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 946091619,
     "Card1": 14436,
     "Card2": 13923,
     "GameState": 0,
@@ -858,7 +824,6 @@
       "9d"
     ],
     "BigBlind": 0.5,
-    "CardTest": 895695204,
     "Card1": 13667,
     "Card2": 14692,
     "GameState": 0,
@@ -883,7 +848,6 @@
       "4s"
     ],
     "BigBlind": 0.5,
-    "CardTest": 963851379,
     "Card1": 14707,
     "Card2": 13427,
     "GameState": 0,
@@ -908,7 +872,6 @@
       "2c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 962867811,
     "Card1": 14692,
     "Card2": 12899,
     "GameState": 0,
@@ -933,7 +896,6 @@
       "9d"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1366505828,
     "Card1": 20851,
     "Card2": 14692,
     "GameState": 0,
@@ -958,7 +920,6 @@
       "7c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 929314659,
     "Card1": 14180,
     "Card2": 14179,
     "GameState": 0,
@@ -983,7 +944,6 @@
       "7c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 929314659,
     "Card1": 14180,
     "Card2": 14179,
     "GameState": 1,
@@ -1008,7 +968,6 @@
       "7c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 929314659,
     "Card1": 14180,
     "Card2": 14179,
     "GameState": 1,
@@ -1033,7 +992,6 @@
       "9h"
     ],
     "BigBlind": 0.5,
-    "CardTest": 878983528,
     "Card1": 13412,
     "Card2": 14696,
     "GameState": 0,
@@ -1058,7 +1016,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 845431139,
     "Card1": 12900,
     "Card2": 16739,
     "GameState": 0,
@@ -1083,7 +1040,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 845431139,
     "Card1": 12900,
     "Card2": 16739,
     "GameState": 1,
@@ -1108,7 +1064,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 845431139,
     "Card1": 12900,
     "Card2": 16739,
     "GameState": 1,
@@ -1133,7 +1088,6 @@
       "2s"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415787123,
     "Card1": 21603,
     "Card2": 12915,
     "GameState": 0,
@@ -1158,7 +1112,6 @@
       "3h"
     ],
     "BigBlind": 0.5,
-    "CardTest": 963130216,
     "Card1": 14696,
     "Card2": 13160,
     "GameState": 0,
@@ -1183,7 +1136,6 @@
       "Tc"
     ],
     "BigBlind": 0.5,
-    "CardTest": 930305123,
     "Card1": 14195,
     "Card2": 21603,
     "GameState": 0,
@@ -1208,7 +1160,6 @@
       "6c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 895759971,
     "Card1": 13668,
     "Card2": 13923,
     "GameState": 0,
@@ -1233,7 +1184,6 @@
       "Js"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1248348787,
     "Card1": 19048,
     "Card2": 19059,
     "GameState": 0,
@@ -1258,7 +1208,6 @@
       "Js"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1248348787,
     "Card1": 19048,
     "Card2": 19059,
     "GameState": 1,
@@ -1283,7 +1232,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1416118627,
     "Card1": 21608,
     "Card2": 16739,
     "GameState": 0,
@@ -1308,7 +1256,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1416118627,
     "Card1": 21608,
     "Card2": 16739,
     "GameState": 1,
@@ -1333,7 +1280,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1416118627,
     "Card1": 21608,
     "Card2": 16739,
     "GameState": 2,
@@ -1358,7 +1304,6 @@
       "Ac"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1416118627,
     "Card1": 21608,
     "Card2": 16739,
     "GameState": 3,
@@ -1383,7 +1328,6 @@
       "6c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 946091619,
     "Card1": 14436,
     "Card2": 13923,
     "GameState": 0,
@@ -1408,7 +1352,6 @@
       "4d"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415787620,
     "Card1": 21603,
     "Card2": 13412,
     "GameState": 0,
@@ -1433,7 +1376,6 @@
       "2c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 946352739,
     "Card1": 14440,
     "Card2": 12899,
     "GameState": 0,
@@ -1458,7 +1400,6 @@
       "4d"
     ],
     "BigBlind": 0.5,
-    "CardTest": 929313892,
     "Card1": 14180,
     "Card2": 13412,
     "GameState": 0,
@@ -1483,7 +1424,6 @@
       "Jd"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415858788,
     "Card1": 21604,
     "Card2": 19044,
     "GameState": 0,
@@ -1508,7 +1448,6 @@
       "Jd"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415858788,
     "Card1": 21604,
     "Card2": 19044,
     "GameState": 1,
@@ -1533,7 +1472,6 @@
       "Jd"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415858788,
     "Card1": 21604,
     "Card2": 19044,
     "GameState": 1,
@@ -1558,7 +1496,6 @@
       "Jd"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415858788,
     "Card1": 21604,
     "Card2": 19044,
     "GameState": 2,
@@ -1583,7 +1520,6 @@
       "Jd"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415858788,
     "Card1": 21604,
     "Card2": 19044,
     "GameState": 2,
@@ -1608,7 +1544,6 @@
       "Kh"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1264864104,
     "Card1": 19300,
     "Card2": 19304,
     "GameState": 0,
@@ -1633,7 +1568,6 @@
       "Kh"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1264864104,
     "Card1": 19300,
     "Card2": 19304,
     "GameState": 1,
@@ -1658,7 +1592,6 @@
       "Kh"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1264864104,
     "Card1": 19300,
     "Card2": 19304,
     "GameState": 2,
@@ -1683,7 +1616,6 @@
       "Kh"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1264864104,
     "Card1": 19300,
     "Card2": 19304,
     "GameState": 3,
@@ -1708,7 +1640,6 @@
       "9c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 879966563,
     "Card1": 13427,
     "Card2": 14691,
     "GameState": 0,
@@ -1733,7 +1664,6 @@
       "3d"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1365455716,
     "Card1": 20835,
     "Card2": 13156,
     "GameState": 0,
@@ -1758,7 +1688,6 @@
       "Js"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1265126003,
     "Card1": 19304,
     "Card2": 19059,
     "GameState": 0,
@@ -1783,7 +1712,6 @@
       "Js"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1265126003,
     "Card1": 19304,
     "Card2": 19059,
     "GameState": 0,
@@ -1808,7 +1736,6 @@
       "6h"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1365522024,
     "Card1": 20836,
     "Card2": 13928,
     "GameState": 0,
@@ -1833,7 +1760,6 @@
       "8s"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1365784691,
     "Card1": 20840,
     "Card2": 14451,
     "GameState": 0,
@@ -1858,7 +1784,6 @@
       "Ad"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1265123684,
     "Card1": 19304,
     "Card2": 16740,
     "GameState": 0,
@@ -1883,7 +1808,6 @@
       "Ad"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1265123684,
     "Card1": 19304,
     "Card2": 16740,
     "GameState": 1,
@@ -1908,7 +1832,6 @@
       "4c"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1265120355,
     "Card1": 19304,
     "Card2": 13411,
     "GameState": 0,
@@ -1933,7 +1856,6 @@
       "Qc"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415795043,
     "Card1": 21603,
     "Card2": 20835,
     "GameState": 0,
@@ -1958,7 +1880,6 @@
       "Qc"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415795043,
     "Card1": 21603,
     "Card2": 20835,
     "GameState": 0,
@@ -1983,7 +1904,6 @@
       "Qc"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415795043,
     "Card1": 21603,
     "Card2": 20835,
     "GameState": 1,
@@ -2008,7 +1928,6 @@
       "Qc"
     ],
     "BigBlind": 0.5,
-    "CardTest": 1415795043,
     "Card1": 21603,
     "Card2": 20835,
     "GameState": 2,
