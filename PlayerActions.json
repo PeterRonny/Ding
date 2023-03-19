@@ -1,22 +1,42 @@
 [
   {
     "LastActionAllPlayersCurrentRound": [
-      0,
-      0,
+      -1,
       5,
+      6,
       0,
-      3,
-      0
+      -1,
+      -1
     ]
   },
   {
     "LastActionAllPlayersCurrentRound": [
-      2,
-      5,
-      5,
-      0,
-      0,
-      0
+      -2,
+      -2,
+      1,
+      -2,
+      -1,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      4,
+      -2,
+      -1,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      4,
+      -2,
+      -1,
+      -2
     ]
   }
 ]
