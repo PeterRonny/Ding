@@ -1,0 +1,812 @@
+[
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      0,
+      5,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      2,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      3,
+      0,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      3,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      3,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      -2,
+      1,
+      -2,
+      -2,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      3,
+      0,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      -2,
+      -1,
+      -2,
+      -2,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      3,
+      3,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      5,
+      5,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      -2,
+      1,
+      -2,
+      -2,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      -2,
+      1,
+      -2,
+      -2,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      0,
+      5,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      -2,
+      -2,
+      -2,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      -2,
+      -2,
+      -2,
+      1,
+      4
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      5,
+      5,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      5,
+      5,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      0,
+      5,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      5,
+      5,
+      0,
+      3,
+      2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      3,
+      0,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      -2,
+      -2,
+      -2,
+      -2,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      3,
+      -2,
+      -2,
+      -2,
+      -2,
+      4
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -1,
+      -1,
+      -2,
+      -2,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      1,
+      4,
+      -2,
+      -2,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      3,
+      0,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      -2,
+      1,
+      -2,
+      -2,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      1,
+      -2,
+      -1,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      4,
+      -2,
+      -1,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      4,
+      -2,
+      -1,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      5,
+      5,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      3,
+      0,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      -2,
+      -2,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      -2,
+      -2,
+      1,
+      4
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      -2,
+      -2,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      -2,
+      -2,
+      1,
+      4
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      2,
+      0,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      1,
+      -2,
+      1,
+      -2,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      1,
+      -2,
+      1,
+      -2,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      1,
+      -2,
+      4,
+      -2,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      5,
+      5,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      2,
+      0,
+      0,
+      3,
+      3,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      0,
+      5,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      3,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      1,
+      -1,
+      -1,
+      -2
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -1,
+      5,
+      5,
+      0,
+      0,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      4,
+      -2,
+      -2,
+      -1
+    ]
+  },
+  {
+    "LastActionAllPlayersCurrentRound": [
+      -2,
+      -2,
+      4,
+      -2,
+      -2,
+      -1
+    ]
+  }
+]
