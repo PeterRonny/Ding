@@ -5,7 +5,7 @@
     "WinnerPosition": 3,
     "CardsInt": [
       48,
-      20
+      12
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -19,7 +19,7 @@
     "WinnerPosition": 1,
     "CardsInt": [
       45,
-      11
+      3
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -32,8 +32,8 @@
     "MyPosition": 3,
     "WinnerPosition": 3,
     "CardsInt": [
-      19,
-      23
+      11,
+      15
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -46,8 +46,8 @@
     "MyPosition": 6,
     "WinnerPosition": 5,
     "CardsInt": [
-      10,
-      20
+      2,
+      12
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -61,7 +61,7 @@
     "WinnerPosition": 2,
     "CardsInt": [
       42,
-      21
+      13
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -74,8 +74,8 @@
     "MyPosition": 2,
     "WinnerPosition": 3,
     "CardsInt": [
-      34,
-      15
+      26,
+      7
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -88,7 +88,7 @@
     "MyPosition": 5,
     "WinnerPosition": 2,
     "CardsInt": [
-      18,
+      10,
       43
     ],
     "BigBlind": 0.5,
@@ -102,8 +102,8 @@
     "MyPosition": 6,
     "WinnerPosition": 3,
     "CardsInt": [
-      11,
-      10
+      3,
+      2
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -145,7 +145,7 @@
     "WinnerPosition": 2,
     "CardsInt": [
       48,
-      31
+      23
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -186,7 +186,7 @@
     "MyPosition": 1,
     "WinnerPosition": 3,
     "CardsInt": [
-      11,
+      3,
       44
     ],
     "BigBlind": 0.5,
@@ -200,8 +200,8 @@
     "MyPosition": 4,
     "WinnerPosition": 2,
     "CardsInt": [
-      24,
-      13
+      16,
+      5
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -214,7 +214,7 @@
     "MyPosition": 6,
     "WinnerPosition": 1,
     "CardsInt": [
-      26,
+      18,
       39
     ],
     "BigBlind": 0.5,
@@ -228,7 +228,7 @@
     "MyPosition": 5,
     "WinnerPosition": 1,
     "CardsInt": [
-      14,
+      6,
       51
     ],
     "BigBlind": 0.5,
@@ -242,8 +242,8 @@
     "MyPosition": 2,
     "WinnerPosition": 6,
     "CardsInt": [
-      15,
-      18
+      7,
+      10
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -256,8 +256,8 @@
     "MyPosition": 6,
     "WinnerPosition": 6,
     "CardsInt": [
-      27,
-      23
+      19,
+      15
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -270,8 +270,8 @@
     "MyPosition": 6,
     "WinnerPosition": 6,
     "CardsInt": [
-      27,
-      23
+      19,
+      15
     ],
     "BigBlind": 0.5,
     "GameState": 1,
@@ -284,8 +284,8 @@
     "MyPosition": 6,
     "WinnerPosition": 6,
     "CardsInt": [
-      27,
-      23
+      19,
+      15
     ],
     "BigBlind": 0.5,
     "GameState": 2,
@@ -299,7 +299,7 @@
     "WinnerPosition": 3,
     "CardsInt": [
       39,
-      26
+      18
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -312,8 +312,8 @@
     "MyPosition": 3,
     "WinnerPosition": 4,
     "CardsInt": [
-      25,
-      22
+      17,
+      14
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -326,8 +326,8 @@
     "MyPosition": 5,
     "WinnerPosition": 6,
     "CardsInt": [
-      34,
-      33
+      26,
+      25
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -340,8 +340,8 @@
     "MyPosition": 5,
     "WinnerPosition": 6,
     "CardsInt": [
-      34,
-      33
+      26,
+      25
     ],
     "BigBlind": 0.5,
     "GameState": 1,
@@ -354,8 +354,8 @@
     "MyPosition": 5,
     "WinnerPosition": 6,
     "CardsInt": [
-      34,
-      33
+      26,
+      25
     ],
     "BigBlind": 0.5,
     "GameState": 1,
@@ -368,8 +368,8 @@
     "MyPosition": 2,
     "WinnerPosition": 3,
     "CardsInt": [
-      25,
-      35
+      17,
+      27
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -383,7 +383,7 @@
     "WinnerPosition": 2,
     "CardsInt": [
       42,
-      39
+      31
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -396,8 +396,8 @@
     "MyPosition": 5,
     "WinnerPosition": 3,
     "CardsInt": [
-      38,
-      35
+      30,
+      27
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -466,8 +466,8 @@
     "MyPosition": 5,
     "WinnerPosition": 1,
     "CardsInt": [
-      32,
-      27
+      24,
+      19
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -480,8 +480,8 @@
     "MyPosition": 1,
     "WinnerPosition": 4,
     "CardsInt": [
-      23,
-      36
+      15,
+      28
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -494,8 +494,8 @@
     "MyPosition": 3,
     "WinnerPosition": 6,
     "CardsInt": [
-      38,
-      18
+      30,
+      10
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -508,8 +508,8 @@
     "MyPosition": 2,
     "WinnerPosition": 6,
     "CardsInt": [
-      36,
-      11
+      28,
+      3
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -523,7 +523,7 @@
     "WinnerPosition": 2,
     "CardsInt": [
       42,
-      36
+      28
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -536,8 +536,8 @@
     "MyPosition": 6,
     "WinnerPosition": 1,
     "CardsInt": [
-      28,
-      31
+      20,
+      23
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -550,8 +550,8 @@
     "MyPosition": 6,
     "WinnerPosition": 1,
     "CardsInt": [
-      28,
-      31
+      20,
+      23
     ],
     "BigBlind": 0.5,
     "GameState": 1,
@@ -564,8 +564,8 @@
     "MyPosition": 6,
     "WinnerPosition": 1,
     "CardsInt": [
-      28,
-      31
+      20,
+      23
     ],
     "BigBlind": 0.5,
     "GameState": 1,
@@ -578,8 +578,8 @@
     "MyPosition": 4,
     "WinnerPosition": 3,
     "CardsInt": [
-      16,
-      37
+      8,
+      29
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -592,7 +592,7 @@
     "MyPosition": 2,
     "WinnerPosition": 3,
     "CardsInt": [
-      8,
+      0,
       51
     ],
     "BigBlind": 0.5,
@@ -606,7 +606,7 @@
     "MyPosition": 2,
     "WinnerPosition": 3,
     "CardsInt": [
-      8,
+      0,
       51
     ],
     "BigBlind": 0.5,
@@ -620,7 +620,7 @@
     "MyPosition": 2,
     "WinnerPosition": 3,
     "CardsInt": [
-      8,
+      0,
       51
     ],
     "BigBlind": 0.5,
@@ -635,7 +635,7 @@
     "WinnerPosition": 5,
     "CardsInt": [
       35,
-      10
+      2
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -648,8 +648,8 @@
     "MyPosition": 3,
     "WinnerPosition": 1,
     "CardsInt": [
-      37,
-      13
+      29,
+      5
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -662,7 +662,7 @@
     "MyPosition": 6,
     "WinnerPosition": 1,
     "CardsInt": [
-      30,
+      22,
       35
     ],
     "BigBlind": 0.5,
@@ -676,8 +676,8 @@
     "MyPosition": 5,
     "WinnerPosition": 3,
     "CardsInt": [
-      20,
-      27
+      12,
+      19
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -774,8 +774,8 @@
     "MyPosition": 2,
     "WinnerPosition": 5,
     "CardsInt": [
-      32,
-      27
+      24,
+      19
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -789,7 +789,7 @@
     "WinnerPosition": 2,
     "CardsInt": [
       35,
-      16
+      8
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -802,8 +802,8 @@
     "MyPosition": 3,
     "WinnerPosition": 1,
     "CardsInt": [
-      33,
-      11
+      25,
+      3
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -816,8 +816,8 @@
     "MyPosition": 4,
     "WinnerPosition": 1,
     "CardsInt": [
-      28,
-      16
+      20,
+      8
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -956,8 +956,8 @@
     "MyPosition": 1,
     "WinnerPosition": 3,
     "CardsInt": [
-      18,
-      39
+      10,
+      31
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -971,7 +971,7 @@
     "WinnerPosition": 6,
     "CardsInt": [
       43,
-      12
+      4
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -1013,7 +1013,7 @@
     "WinnerPosition": 6,
     "CardsInt": [
       40,
-      25
+      17
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -1027,7 +1027,7 @@
     "WinnerPosition": 1,
     "CardsInt": [
       41,
-      34
+      26
     ],
     "BigBlind": 0.5,
     "GameState": 0,
@@ -1069,7 +1069,7 @@
     "WinnerPosition": 3,
     "CardsInt": [
       45,
-      19
+      11
     ],
     "BigBlind": 0.5,
     "GameState": 0,
