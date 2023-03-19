@@ -4,7 +4,7 @@
     "MyPosition": 5,
     "WinnerPosition": 5,
     "BigBlind": 0.5,
-    "BowlActionInt": 3,
+    "BowlyActionInt": 3,
     "ValueToCall": 0.5,
     "CurrentPot": 0.5,
     "GameState": 0
@@ -14,7 +14,7 @@
     "MyPosition": 5,
     "WinnerPosition": 5,
     "BigBlind": 0.5,
-    "BowlActionInt": 1,
+    "BowlyActionInt": 1,
     "ValueToCall": 0.0,
     "CurrentPot": 1.1,
     "GameState": 1
@@ -24,7 +24,7 @@
     "MyPosition": 5,
     "WinnerPosition": 5,
     "BigBlind": 0.5,
-    "BowlActionInt": 2,
+    "BowlyActionInt": 2,
     "ValueToCall": 2.0,
     "CurrentPot": 1.1,
     "GameState": 2
@@ -34,7 +34,7 @@
     "MyPosition": 5,
     "WinnerPosition": 5,
     "BigBlind": 0.5,
-    "BowlActionInt": 3,
+    "BowlyActionInt": 3,
     "ValueToCall": 4.5,
     "CurrentPot": 3.1,
     "GameState": 3
