@@ -1,731 +1,812 @@
 [
   {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      31,
-      13,
-      41,
-      29,
-      44
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      5,
-      1,
-      42,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      26,
-      51,
-      35,
-      5,
-      39
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      33,
-      29,
-      4,
-      38,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      0,
-      4,
-      42,
-      13,
-      25
-    ]
-  },
-  {
-    "CardsInt": [
-      34,
-      10,
-      24,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      34,
-      10,
-      24,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      1,
-      24,
-      37,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      1,
-      24,
-      37,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      13,
-      12,
-      9,
-      46,
-      18
-    ]
-  },
-  {
-    "CardsInt": [
-      14,
-      20,
-      6,
-      9,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      14,
-      20,
-      6,
-      9,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      14,
-      20,
-      6,
-      9,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      8,
-      5,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      8,
-      5,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      8,
-      5,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      11,
-      49,
-      4,
-      9,
-      32
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      34,
-      39,
-      8,
-      35,
-      48
-    ]
-  },
-  {
-    "CardsInt": [
-      7,
-      25,
-      9,
-      27,
-      23
-    ]
-  },
-  {
-    "CardsInt": [
-      3,
-      12,
-      31,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      12,
-      42,
-      46,
-      6
-    ]
-  },
-  {
-    "CardsInt": [
-      31,
-      45,
-      18,
-      46,
-      27
-    ]
-  },
-  {
-    "CardsInt": [
-      44,
-      24,
-      6,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      44,
-      24,
-      6,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      44,
-      24,
-      6,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      0,
-      40,
-      12,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      33,
-      5,
-      20,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      33,
-      5,
-      20,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      33,
-      5,
-      20,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      16,
-      7,
-      24,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      16,
-      7,
-      24,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      0,
-      48,
-      49,
-      17,
-      46
-    ]
-  },
-  {
-    "CardsInt": [
-      0,
-      48,
-      49,
-      17,
-      46
-    ]
-  },
-  {
-    "CardsInt": [
-      0,
-      48,
-      49,
-      17,
-      46
-    ]
-  },
-  {
-    "CardsInt": [
-      0,
-      48,
-      49,
-      17,
-      46
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      45,
-      23,
-      0,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      13,
-      47,
-      4,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      13,
-      47,
-      4,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      13,
-      47,
-      4,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      13,
-      47,
-      4,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      38,
-      13,
-      47,
-      4,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      24,
-      46,
-      15,
-      10,
-      35
-    ]
-  },
-  {
-    "CardsInt": [
-      24,
-      46,
-      15,
-      10,
-      35
-    ]
-  },
-  {
-    "CardsInt": [
-      24,
-      46,
-      15,
-      10,
-      35
-    ]
-  },
-  {
-    "CardsInt": [
-      24,
-      46,
-      15,
-      10,
-      35
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      26,
-      24,
-      50,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      3,
-      16,
-      20,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      3,
-      16,
-      20,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      17,
-      7,
-      44,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      17,
-      7,
-      44,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      45,
-      36,
-      14,
-      18,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      45,
-      36,
-      14,
-      18,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      45,
-      36,
-      14,
-      18,
-      -1
-    ]
-  },
-  {
-    "CardsInt": [
-      45,
-      36,
-      14,
-      18,
-      -1
-    ]
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 1.0,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.25,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.75,
+    "CurrentPot": 1.25,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.13,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.25,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.75,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.6,
+    "CurrentPot": 1.1,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 5.25,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 3.75,
+    "CurrentPot": 1.0,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.25,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 2
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.92,
+    "CurrentPot": 3.02,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.75,
+    "CurrentPot": 1.0,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.25,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.5,
+    "CurrentPot": 1.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.75,
+    "CurrentPot": 1.25,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.87,
+    "CurrentPot": 1.12,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 1.5,
+    "CurrentPot": 1.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 4.5,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 16.67,
+    "CurrentPot": 7.49,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.25,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.25,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.79,
+    "CurrentPot": 1.25,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.1,
+    "CurrentPot": 1.1,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 1.0,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "BowlActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "BowlActionInt": 2,
+    "ValueToCall": 2.0,
+    "CurrentPot": 1.1,
+    "GameState": 2
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 4.5,
+    "CurrentPot": 3.1,
+    "GameState": 3
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 5,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.25,
+    "CurrentPot": 1.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 2,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 2,
+    "ValueToCall": 0.7,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 1,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.7999999999999998,
+    "GameState": 2
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 5,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 7.02,
+    "CurrentPot": 1.7999999999999998,
+    "GameState": 2
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 3.63,
+    "GameState": 2
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 27.78,
+    "CurrentPot": 9.58,
+    "GameState": 3
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.75,
+    "CurrentPot": 1.0,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 2.4,
+    "CurrentPot": 3.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 3,
+    "WinnerPosition": 6,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 1.0,
+    "CurrentPot": 1.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 2,
+    "WinnerPosition": 1,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.9,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 4,
+    "WinnerPosition": 4,
+    "BigBlind": 0.5,
+    "BowlActionInt": 4,
+    "ValueToCall": 0.0,
+    "CurrentPot": 1.1,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 1,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 3,
+    "ValueToCall": 0.5,
+    "CurrentPot": 0.5,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 2,
+    "ValueToCall": 3.15,
+    "CurrentPot": 1.1,
+    "GameState": 0
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 2,
+    "ValueToCall": 4.99,
+    "CurrentPot": 4.25,
+    "GameState": 1
+  },
+  {
+    "PlayerCount": 6,
+    "MyPosition": 6,
+    "WinnerPosition": 3,
+    "BigBlind": 0.5,
+    "BowlActionInt": 0,
+    "ValueToCall": 9.75,
+    "CurrentPot": 9.24,
+    "GameState": 2
   }
 ]
