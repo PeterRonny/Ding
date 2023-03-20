@@ -15,7 +15,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2500,
+    "ValueToCall": 25,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -35,7 +35,7 @@
     "WinnerPosition": 5,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5063,
+    "ValueToCall": 112,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -45,7 +45,7 @@
     "WinnerPosition": 2,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -55,7 +55,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2500,
+    "ValueToCall": 25,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -65,7 +65,7 @@
     "WinnerPosition": 2,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -75,7 +75,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5125,
+    "ValueToCall": 175,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -85,7 +85,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -105,7 +105,7 @@
     "WinnerPosition": 2,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -135,7 +135,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -145,7 +145,7 @@
     "WinnerPosition": 2,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -155,7 +155,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5325,
+    "ValueToCall": 375,
     "CurrentPot": 100,
     "GameState": 0
   },
@@ -165,7 +165,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -175,7 +175,7 @@
     "WinnerPosition": 6,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2575,
+    "ValueToCall": 100,
     "CurrentPot": 125,
     "GameState": 0
   },
@@ -185,7 +185,7 @@
     "WinnerPosition": 6,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -215,7 +215,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -235,7 +235,7 @@
     "WinnerPosition": 6,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -265,7 +265,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2550,
+    "ValueToCall": 75,
     "CurrentPot": 100,
     "GameState": 0
   },
@@ -275,7 +275,7 @@
     "WinnerPosition": 2,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -285,7 +285,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -295,7 +295,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -305,7 +305,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -315,7 +315,7 @@
     "WinnerPosition": 4,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -325,7 +325,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2575,
+    "ValueToCall": 100,
     "CurrentPot": 125,
     "GameState": 0
   },
@@ -335,7 +335,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -345,7 +345,7 @@
     "WinnerPosition": 4,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5100,
+    "ValueToCall": 150,
     "CurrentPot": 150,
     "GameState": 0
   },
@@ -365,7 +365,7 @@
     "WinnerPosition": 6,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2562,
+    "ValueToCall": 87,
     "CurrentPot": 112,
     "GameState": 0
   },
@@ -375,7 +375,7 @@
     "WinnerPosition": 2,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -385,7 +385,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5100,
+    "ValueToCall": 150,
     "CurrentPot": 150,
     "GameState": 0
   },
@@ -415,7 +415,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -425,7 +425,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 2500,
+    "ValueToCall": 25,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -455,7 +455,7 @@
     "WinnerPosition": 5,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5060,
+    "ValueToCall": 110,
     "CurrentPot": 110,
     "GameState": 0
   },
@@ -475,7 +475,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -485,7 +485,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -495,7 +495,7 @@
     "WinnerPosition": 6,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -515,7 +515,7 @@
     "WinnerPosition": 5,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -555,7 +555,7 @@
     "WinnerPosition": 5,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2600,
+    "ValueToCall": 125,
     "CurrentPot": 150,
     "GameState": 0
   },
@@ -565,7 +565,7 @@
     "WinnerPosition": 2,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -585,7 +585,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -595,7 +595,7 @@
     "WinnerPosition": 6,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -645,7 +645,7 @@
     "WinnerPosition": 6,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -685,7 +685,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -695,7 +695,7 @@
     "WinnerPosition": 6,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2550,
+    "ValueToCall": 75,
     "CurrentPot": 100,
     "GameState": 0
   },
@@ -705,7 +705,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -735,7 +735,7 @@
     "WinnerPosition": 1,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 2565,
+    "ValueToCall": 90,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -745,7 +745,7 @@
     "WinnerPosition": 4,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -765,7 +765,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 0,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
@@ -775,7 +775,7 @@
     "WinnerPosition": 3,
     "BigBlind": 50,
     "BowlyActionInt": 3,
-    "ValueToCall": 5000,
+    "ValueToCall": 50,
     "CurrentPot": 50,
     "GameState": 0
   },
